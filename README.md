@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Deep Learning & BCI projects**
 
-- 📝 I regularly write articles on <a href="https://twitter.com/susmoynath">Twitter</a>
+- 📝 I regularly write articles on <a href="https://twitter.com/susmoynath">**Twitter**</a>
 
-- 📫 How to reach me **contact@susmoynath.dev**
+- 📫 How to reach me <a href=mailto:contact@susmoynath.dev>**contact@susmoynath.dev**</a>
 
-- 📄 Know about my experiences from <a href="https://cv.susmoynath.dev">my resume</a>
+- 📄 Know about my experiences from <a href="https://cv.susmoynath.dev">**my resume**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
