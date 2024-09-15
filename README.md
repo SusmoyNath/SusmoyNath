@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Deep Learning & BCI projects**
 
-- 📝 I regularly write articles on [x.com/SusmoyNath](x.com/SusmoyNath)
+- 📝 I regularly write articles on <a href="https://twitter.com/susmoynath">Twitter</a>
 
 - 📫 How to reach me **contact@susmoynath.dev**
 
