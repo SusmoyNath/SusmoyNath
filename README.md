@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **contact@susmoynath.dev**
 
-- 📄 Know about my experiences [cv.susmoynath.dev](cv.susmoynath.dev)
+- 📄 Know about my experiences from <a href="cv.susmoynath.dev">my resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
