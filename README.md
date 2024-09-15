@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Susmoy Nath</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
-<h4 align="center">🌱 I like to keep my repositories private</h4>
+<h2 align="center">🌱 I like to keep my repositories private</h2>
 
 - 🔭 I’m currently working on **Deep Learning & BCI projects**
 
