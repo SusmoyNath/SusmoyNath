@@ -12,6 +12,8 @@
 
 - 📫 How to reach me <a href=mailto:contact@susmoynath.dev>**contact@susmoynath.dev**</a>
 
+- 🕸️ Visit my <a href="https://susmoynath.com">**website**</a>
+
 - 📄 Know about my experiences from <a href="https://cv.susmoynath.dev">**my resume**</a>
 
 <h3 align="left">Connect with me:</h3>
