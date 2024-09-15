@@ -1,4 +1,4 @@
-![logo](https://github.com/gauravsarkar-code/gauravsarkar-code/blob/main/Gaurav%20git%20banner.png)
+![logo](https://github.com/SusmoyNath/SusmoyNath/blob/main/White%20and%20Blue%20Minimalist%20Watercolor%20Background%20Linkedin%20Banner(3).png)
 
 <h1 align="center">Hi 👋, I'm Susmoy Nath</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
