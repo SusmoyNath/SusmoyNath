@@ -1,6 +1,10 @@
+![logo](https://github.com/gauravsarkar-code/gauravsarkar-code/blob/main/Gaurav%20git%20banner.png)
+
 <h1 align="center">Hi 👋, I'm Susmoy Nath</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 <h2 align="center">🌱 I like to keep my repositories private</h2>
+
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b7611pcihgc5uo527e4eeszr0pud8f7iycq787xqmaogm&ep=v1_gifs_search&rid=giphy.gif">
 
 - 🔭 I’m currently working on **Deep Learning & BCI projects**
 
