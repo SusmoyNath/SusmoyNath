@@ -6,7 +6,7 @@
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-- 🔭 I’m currently working on **Deep Learning & BCI projects**
+- 🔭 I’m currently working on **Deep Learning & Brain Computer Interface (BCI) projects**
 
 - 📝 I regularly write articles on <a href="https://twitter.com/susmoynath">**Twitter**</a>
 
