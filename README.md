@@ -21,7 +21,6 @@
 <h1></h1>
 <h1></h1>
 
-![](https://leetcard.jacoblin.cool/susmoynath?site=us)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
